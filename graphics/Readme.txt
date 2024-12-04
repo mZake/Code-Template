@@ -1,0 +1,1 @@
+Add graphics here (Backgrounds, sprites, etc). You can delete this file.
