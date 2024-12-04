@@ -3,7 +3,7 @@
 
 #include "global.h"
 #include "link_rfu.h"
-#include "constants/union_room.h"
+#include "union_room.h"
 
 // In the Union Room the player is only ever connected to ≤ 4 other players.
 // However, there can be up to MAX_UNION_ROOM_LEADERS (8) object events to
